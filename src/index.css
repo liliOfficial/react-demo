@@ -1,0 +1,13 @@
+@import "~bootstrap/dist/css/bootstrap.css";
+@import "./fonts/font-awesome/css/font-awesome.min.css";
+@import "./styles/vendor.css";
+@import "./styles/theme.css";
+@import "./styles/app.css";
+@import "./styles/vendor/datatables.min.css"; 
+@import "./styles/main.css";
+
+/* .red {
+  color:red;
+} */
+
+

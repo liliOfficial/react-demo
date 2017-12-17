@@ -1,0 +1,65 @@
+table td {
+    vertical-align: middle !important;
+}
+
+.doc-img {
+    width:52px;
+    height:52px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+
+select.status {
+    min-width:80px;
+    border-color: transparent;
+    background-color:transparent;
+}
+
+select.reason {
+    color:red;
+    border-color: transparent;
+    background-color:transparent;
+}
+
+.table > thead > tr > th {
+    font-size:12px;
+
+}
+
+.table > tbody > tr > td {
+    padding:4px 8px;
+    font-size:11px;
+}
+
+td input.form-control {
+    width:100%;
+    background:transparent;
+}
+
+td input.form-control:disabled {
+    border:none;
+    background:transparent;    
+}
+
+.cursor-pointer {
+    cursor: pointer;
+}
+
+.bg-white {
+    background:#fff;
+}
+
+/* Header */
+
+.dropdown-menu-language {
+    width:50px;
+}
+.dropdown-menu-language .dropdown-body {
+    height: auto;
+}
+
+
+
+
+
